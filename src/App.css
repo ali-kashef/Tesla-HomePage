@@ -1,0 +1,14 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  list-style: none;
+  border: none;
+}
+a{
+color: black;
+border: none !important;
+}
+.banner{
+  position: absolute;
+}
