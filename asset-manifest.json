@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Tesla-HomePage/static/css/main.bd0593fc.css",
-    "main.js": "/Tesla-HomePage/static/js/main.c1237eaf.js",
+    "main.js": "/Tesla-HomePage/static/js/main.38745615.js",
     "static/media/Homepage-SolarPanels-01-Desktop.jpg": "/Tesla-HomePage/static/media/Homepage-SolarPanels-01-Desktop.9585dc85dabb0a1b3398.jpg",
     "static/media/Homepage-APR-Promo-Hero-Desktop-v3.jpg": "/Tesla-HomePage/static/media/Homepage-APR-Promo-Hero-Desktop-v3.cb0b32229c16d9156b55.jpg",
     "static/media/Homepage-Cybertruck-Desktop-v3.jpg": "/Tesla-HomePage/static/media/Homepage-Cybertruck-Desktop-v3.a477cef180a8c599b22e.jpg",
@@ -15,10 +15,10 @@
     "static/media/logo.svg": "/Tesla-HomePage/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Tesla-HomePage/index.html",
     "main.bd0593fc.css.map": "/Tesla-HomePage/static/css/main.bd0593fc.css.map",
-    "main.c1237eaf.js.map": "/Tesla-HomePage/static/js/main.c1237eaf.js.map"
+    "main.38745615.js.map": "/Tesla-HomePage/static/js/main.38745615.js.map"
   },
   "entrypoints": [
     "static/css/main.bd0593fc.css",
-    "static/js/main.c1237eaf.js"
+    "static/js/main.38745615.js"
   ]
 }
