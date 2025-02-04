@@ -6,9 +6,9 @@ import { BrowserRouter } from 'react-router-dom';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-  <React.StrictMode baseName="/Tesla-HomePage">
-    <BrowserRouter>
-     <App />
+  <React.StrictMode >
+    <BrowserRouter baseName="/Tesla-HomePage">
+    <App />
     </BrowserRouter>
    
   </React.StrictMode>

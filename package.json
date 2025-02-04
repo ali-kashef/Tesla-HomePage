@@ -2,7 +2,7 @@
   "name": "react-proje",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ali-kashef.github.io/Tesla-HomePage",
+"homepage": "https://ali-kashef.github.io/Tesla-HomePage",
   "dependencies": {
     "@emotion/react": "^11.14.0",
     "@emotion/styled": "^11.14.0",
